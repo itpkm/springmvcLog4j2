@@ -15,7 +15,7 @@
           4）观察SpringmvcLog4j2Application控制台日志输出，日志输出即代表着攻击型代码的执行——即JVM所在服务受攻击
  要求：Log4j2 < v2.15.0
  
- ![img_1.png](doc\\img_1.png)
+ ![img_1.png](img_1.png)
 
 # 原理说明（待补充）
 
